@@ -1,0 +1,23 @@
+{
+	"fichero": {
+		"ficha": [
+			{
+				"nombre": "Jose",
+				"apellido": "Jimenez",
+				"direccion": "Col. Santa Paula; 23",
+				"_id": "1",
+				"_fechaingreso": "1/03/2021"
+			},
+			{
+				"nombre": "Juan",
+				"apellido": "Alvarado",
+				"direccion": "Col. Las margaritas, Pol. B; N45",
+				"telefono": "76666666",
+				"email": "ja2543@hotmail.com",
+				"fechaNacimiento": "20/08/1975",
+				"_id": "2",
+				"_fechaingreso": "02/04/2021"
+			}
+		]
+	}
+}

@@ -1,0 +1,10 @@
+/* ejercicio1a.css   zp19013  */
+fichero{background-color:rgb(70, 70, 96); display:grid; align-items: center; text-align: center;}
+ficha {background-color:rgb(54, 139, 133); display:inline-block; text-align: center; padding: 20px; font-family: 'Courier New', Courier, monospace; margin-top: 20px;margin-bottom: 20px} 
+ficha[fechaingreso]::before{content:attr(id)") " attr(fechaingreso);color: rgb(241, 233, 229);font-weight:bold ; display: block; margin-bottom: 20px;}
+nombre {color:rgb(0, 0, 0);  font-size: medium;background-color: rgb(180, 184, 151); padding: 10px; border-radius: 5px;margin-top: 20px;margin-bottom: 20px;}
+apellido {color:rgb(0, 0, 0); font-size: medium;background-color:  rgb(180, 184, 151);padding: 10px; border-radius: 5px;margin-top: 20px;margin-bottom: 20px;}
+direccion {color:rgb(0, 0, 0);  background-color: rgb(180, 184, 151); padding: 10px; border-radius: 5px; margin-top: 20px;margin-bottom: 20px; }
+telefono{color:rgb(0, 0, 0);  font-size: medium;background-color: rgb(180, 184, 151); padding: 10px; border-radius: 5px;margin-top: 20px;margin-bottom: 20px;}
+email {color:rgb(0, 0, 0); font-size: medium;background-color:  rgb(180, 184, 151);padding: 10px; border-radius: 5px;margin-top: 20px;margin-bottom: 20px;}
+fechaNacimiento {color:rgb(0, 0, 0);  background-color: rgb(180, 184, 151); padding: 10px; border-radius: 5px; margin-top: 20px;margin-bottom: 20px; }

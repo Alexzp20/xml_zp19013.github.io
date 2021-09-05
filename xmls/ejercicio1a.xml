@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="../css/ejercicio1a.css"?>
+<!--  ejemplo1a.xml  ZP19013  -->
+<fichero>
+<ficha id="1" fechaingreso="1/03/2021">
+<nombre>Jose</nombre>
+<apellido>Jimenez</apellido>
+<direccion>Col. Santa Paulaaa; 23</direccion>
+
+</ficha>
+<ficha id="2" fechaingreso="02/04/2021">
+<nombre>Juan</nombre>
+<apellido>Alvarado</apellido>
+<direccion>Col. Las margaritas, Pol. B; N45</direccion>
+<telefono>76666666</telefono>
+<email>ja2543@hotmail.com</email>
+<fechaNacimiento>20/08/1975</fechaNacimiento>
+</ficha>
+</fichero>

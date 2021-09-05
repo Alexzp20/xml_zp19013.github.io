@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet type="text/css" href="../css/ejercicio1b.css"?>
+<!-- ejemplo1b.xml  ZP19013 -->
+<fichero>
+    <ficha id="1" fechaingreso="1/11/2012">
+      <nombre>Antonio</nombre>
+      <apellido>Barbero</apellido>
+      <direccion>Calle de Los Andes, 45</direccion>
+    </ficha>
+    
+    <ficha id="2" fechaingreso="02/09/2021">
+      <nombre>Alexander</nombre>
+      <apellido>Zavaleta</apellido>
+      <direccion>Col. Abrego, Pje. Los Naranjos; N°39A</direccion>
+      <telefono>77777777</telefono>
+      <email>zp19013@ues.edu.sv</email>
+      <fechaNacimiento>18/03/2000</fechaNacimiento>
+    </ficha>
+    
+     <ficha id="3" fechaingreso="25/08/2021">
+      <nombre>Jose Alfredo</nombre>
+      <apellido>Jimenez</apellido>
+      <direccion>Colonia miralvalle; N°2</direccion>
+      <telefono>75667890</telefono>
+      <email>jjosejimenez25@gmail.com</email>
+      <fechaNacimiento>19/02/1990</fechaNacimiento>
+    </ficha>
+  
+    
+</fichero>

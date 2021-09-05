@@ -1,0 +1,38 @@
+{
+	"pais": {
+		"departamento": [
+			{
+				"cabecera": "San Salvador",
+				"habitantes": "1,700,000",
+				"superficie": "886.15km^2",
+				"_id": "1",
+				"_nombre": "San Salvador"
+			},
+			{
+				"cabecera": "Santa Tecla",
+				"habitantes": "843,500",
+				"superficie": "1653km^2",
+				"_id": "2",
+				"_nombre": "La Libertad"
+			},
+			{
+				"cabecera": "Santa Ana",
+				"habitantes": "631,100",
+				"superficie": "2023km^2",
+				"_id": "3",
+				"_nombre": "Santa Ana"
+			}
+		],
+		"moneda": {
+			"fisica": "Dolar ($)",
+			"virtual": "BitCoin (B)"
+		},
+		"idioma": {
+			"actual": "Español",
+			"autoctono": "Nahuatl",
+			"segundo": "Ingles"
+		},
+		"codigoArea": "503",
+		"_nombre": "El Salvador"
+	}
+}

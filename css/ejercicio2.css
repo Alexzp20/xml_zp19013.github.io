@@ -1,0 +1,8 @@
+/* ejercicio2.css   zp19013  */
+pais {background-color:rgb(140, 177, 233); display:grid; align-items: center; text-align: center;}
+pais[nombre]::before{content:attr(nombre);color: rgb(23, 116, 11); font-family:Georgia, 'Times New Roman', Times, serif ; display: block; margin-top: 20px;margin-bottom: 20px; font-size: 2cm;}
+departamento[nombre]::before{content:attr(id)"-" attr(nombre);color: rgb(20, 28, 148);font-weight:bold ; display: block;}
+departamento {background-color:rgb(77, 196, 131); display:block; text-align: center; padding: 20px; font-family: 'Courier New', Courier, monospace;} 
+cabecera {color:rgb(0, 0, 0); display:block; font-size: medium;background-color: rgb(164, 126, 182); padding: 10px; border-radius: 5px;margin-top: 20px;margin-bottom: 20px;}
+habitantes {color:rgb(0, 0, 0); display:block; font-size: medium;background-color:  rgb(164, 126, 182);padding: 10px; border-radius: 5px;margin-top: 20px;margin-bottom: 20px;}
+altura {color:rgb(0, 0, 0); display:block; background-color: rgb(164, 126, 182); padding: 10px; border-radius: 5px; margin-top: 20px;margin-bottom: 20px; }

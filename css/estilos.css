@@ -1,0 +1,6 @@
+/* ejemplo1.css   zp19013  */
+fichero {background-color:rgb(20, 173, 153);}
+ficha {background-color:rgb(51, 153, 93); display:block;} 
+nombre {color:white; display:inline;}
+apellido {color:yellow; display:inline;}
+direccion {color:rgba(49, 206, 226, 0.582);font-size:1cm; display:none;}

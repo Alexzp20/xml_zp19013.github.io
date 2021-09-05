@@ -1,0 +1,12 @@
+/* ejercicio2a.css   zp19013  */
+pais {background-color:rgb(213, 216, 221); display:grid; ; align-items: center; text-align: center;}
+pais[nombre]::before{content:attr(nombre);color: rgb(0, 0, 0);   display: block; margin-top: 20px;margin-bottom: 20px; font-size: 2cm;}
+departamento[nombre]::before{content:attr(id)"-" attr(nombre);color: rgb(255, 255, 255);font-weight:bold ; display: block;}
+departamento {background-color:rgb(42, 29, 156); display:block; text-align: center; padding: 20px;margin-top: 20px;margin-bottom: 20px; font-family:'Lucida Sans';} 
+cabecera {color:rgb(0, 0, 0); display:block; font-size: medium;background-color: rgb(224, 77, 77); padding: 10px; border-radius: 5px;margin-top: 20px;margin-bottom: 20px;}
+habitantes {color:rgb(0, 0, 0); display:block; font-size: medium;background-color:  rgb(224, 77, 77);padding: 10px; border-radius: 5px;margin-top: 20px;margin-bottom: 20px;}
+altura {color:rgb(0, 0, 0); display:block; background-color: rgb(224, 77, 77); padding: 10px; border-radius: 5px; margin-top: 20px;margin-bottom: 20px; }
+
+moneda {color:rgb(0, 0, 0); display:inline; font-size: medium;background-color: rgb(77, 224, 187); padding: 10px; border-radius: 5px;margin-top: 10px;margin-bottom: 10px; font-family:'Lucida Sans';}
+idioma {color:rgb(0, 0, 0); display:inline; font-size: medium;background-color:  rgb(77, 224, 187);padding: 10px; border-radius: 5px;margin-top: 10px;margin-bottom: 10px; font-family:'Lucida Sans';}
+codigoArea {color:rgb(0, 0, 0); display:inline; background-color: rgb(77, 224, 187); padding: 10px; border-radius: 5px; margin-top: 10px;margin-bottom: 10px;font-family:'Lucida Sans'; }

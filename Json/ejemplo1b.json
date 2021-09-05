@@ -1,0 +1,33 @@
+{
+	"fichero": {
+		"ficha": [
+			{
+				"nombre": "Antonio",
+				"apellido": "Barbero",
+				"direccion": "Calle de Los Andes, 45",
+				"_id": "1",
+				"_fechaingreso": "1/11/2012"
+			},
+			{
+				"nombre": "Alexander",
+				"apellido": "Zavaleta",
+				"direccion": "Col. Abrego, Pje. Los Naranjos; N°39A",
+				"telefono": "77777777",
+				"email": "zp19013@ues.edu.sv",
+				"fechaNacimiento": "18/03/2000",
+				"_id": "2",
+				"_fechaingreso": "02/09/2021"
+			},
+			{
+				"nombre": "Jose Alfredo",
+				"apellido": "Jimenez",
+				"direccion": "Colonia miralvalle; N°2",
+				"telefono": "75667890",
+				"email": "jjosejimenez25@gmail.com",
+				"fechaNacimiento": "19/02/1990",
+				"_id": "3",
+				"_fechaingreso": "25/08/2021"
+			}
+		]
+	}
+}
